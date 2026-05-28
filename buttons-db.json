@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1779465679291",
+    "name": "QR code proud",
+    "url": "https://qrcodeproudv1.boonrada555z.workers.dev/",
+    "color": "blue",
+    "size": "medium",
+    "icon": "💻",
+    "category": "IPD",
+    "isPriority": false,
+    "clicks": 11,
+    "description": "ระบบ QR code เติมยาเข้าเครื่อง proud",
+    "lastActive": "Active Now",
+    "created_at": "2026-05-25T07:05:58.879741+00:00"
+  },
+  {
+    "id": "1779465836655",
+    "name": "PharmCalc pro",
+    "url": "https://pharma-8-5-26-aid.vercel.app/login",
+    "color": "blue",
+    "size": "medium",
+    "icon": "💊",
+    "category": "OPD, IPD, IV",
+    "isPriority": false,
+    "clicks": 7,
+    "description": "ระบบคำนวณ Alligation method และ คำนวณยาเตรียมเฉพาะราย",
+    "lastActive": "Active Now",
+    "created_at": "2026-05-25T07:05:58.879741+00:00"
+  },
+  {
+    "id": "1779466033835",
+    "name": "ช่วยจ่ายยาชาวจีน",
+    "url": "https://pharma-lingo-he5ja6pbk-kenglao2903-webs-projects.vercel.app/",
+    "color": "rose",
+    "size": "medium",
+    "icon": "💊",
+    "category": "OPD",
+    "isPriority": false,
+    "clicks": 3,
+    "description": "ระบบช่วยจ่ายยา 5 ภาษา สำหรับเภสัชกรโรงพยาบาลกรุงเทพพัทยา",
+    "lastActive": "Active Now",
+    "created_at": "2026-05-25T07:05:58.879741+00:00"
+  },
+  {
+    "id": "1779559173667",
+    "name": "ตารางเวร",
+    "url": "https://docs.google.com/spreadsheets/d/1uUd186h-TgBFXfgj2JHZgUa98hXocK__eR30dt--Gvo/edit?usp=sharing",
+    "color": "indigo",
+    "size": "small",
+    "icon": "📊",
+    "category": "อื่นๆ",
+    "isPriority": false,
+    "clicks": 3,
+    "description": "ตารางเวร",
+    "lastActive": "Active Now",
+    "created_at": "2026-05-25T07:05:58.879741+00:00"
+  },
+  {
+    "id": "1779638515201",
+    "name": "BlendRX",
+    "url": "https://blendrx-appv1.vercel.app",
+    "color": "rose",
+    "size": "medium",
+    "icon": "💊",
+    "category": "IV",
+    "isPriority": false,
+    "clicks": 3,
+    "description": "งานผลิตยา",
+    "lastActive": "Active Now",
+    "created_at": "2026-05-25T07:05:58.879741+00:00"
+  }
+]

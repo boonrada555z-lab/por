@@ -1,0 +1,8 @@
+{
+  "apiKey": "dummy-api-key-please-run-firebase-setup",
+  "authDomain": "dummy-project.firebaseapp.com",
+  "projectId": "dummy-project",
+  "storageBucket": "dummy-project.appspot.com",
+  "messagingSenderId": "000000000000",
+  "appId": "1:000000000000:web:00000000000000"
+}

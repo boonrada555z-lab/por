@@ -1,0 +1,6 @@
+{
+  "name": "AppPortal",
+  "description": "Centralized Application Directory and Link Manager",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
